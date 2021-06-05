@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Intent Demo</string>
+    <string name="guess_hint_text">Enter Your Guess</string>
+    <string name="check_guess_brn_text">Guess and Check</string>
+    <string name="text_view_place_holder" />
+    <string name="age">age</string>
+    <string name="btn_text">Submit</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_gender">Enter Your Gender</string>
+    <string name="enter_your_profession">Enter Your Profession</string>
+</resources>
